@@ -21,7 +21,7 @@ if(!require(rvest)){
 ### note that you will have to authetucate your Tiwtter account at this point. R should automatically open up your browser
 tweets <- get_timelines("APompliano", n = 5000)
 
-### get the earliest and lates timestamps in the dataset to see the scope of time that the dataset covers
+### get the earliest and latest timestamps in the dataset to see the scope of time that the dataset covers
 ### these dates, and the results at large will be different as Pomp continues to tweet
 min(tweets$created_at)
 # 2019-02-28 16:15:12 UTC
