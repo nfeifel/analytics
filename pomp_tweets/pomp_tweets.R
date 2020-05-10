@@ -1,6 +1,6 @@
 # pomp_tweets
 
-```R
+```
 ### load environemnt
 
 if(!require(rtweet)){
