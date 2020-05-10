@@ -1,3 +1,6 @@
+# pomp_tweets
+
+```
 ### load environemnt
 
 if(!require(rtweet)){
@@ -56,3 +59,4 @@ paste("Out of Pomp's",nrow(tweets_filtered),"tweets from", min(tweets_filtered$c
       table(tweets_filtered$sto_mention)['yes'], "mentions of STOs.")
 
 ### h/t to Michael W. Kearney and the rtweet package, which was used in this analysis (https://cran.r-project.org/web/packages/rtweet/vignettes/intro.html)
+```
