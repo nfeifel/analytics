@@ -6,5 +6,5 @@ this is where I store my work for ad hoc projects that focus on exploratory data
 * Python
 * R
 
-## tools used
+### tools used
 * Jupyter notebook
