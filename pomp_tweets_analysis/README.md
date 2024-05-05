@@ -1,0 +1,3 @@
+# pomp tweets analysis
+
+[anthony pompliao (aka "pomp")](https://twitter.com/APompliano) is a twitter user whose account frequently discusses bitcoin and blockchain. as a follower of his, i noticed that the subject matter of his tweets had shifted over time away from securitized tradional assets and more towards bitcoin. i validated this through pulling twitter data in R, and [tweeted my observation at him](https://twitter.com/n_feifel/status/1125164722364538881) to see if his viewpoints had in fact changed. here's his [response](https://twitter.com/APompliano/status/1125171264518275072).

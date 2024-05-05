@@ -1,10 +1,2 @@
 # analytics
-this is where I store my work for ad hoc projects that focus on exploratory data analysis
-
-
-### primary languages used
-* Python
-* R
-
-### tools used
-* Jupyter notebook
+this is where i store my exploratory data analysis projects. the surface area of these projects span the anlysis of public company earnings calls, social media activity, fitness app usage, and investment frameworks. common languages, techniques, and tools used in this repo include python, R, REST APIs, and jupyter notebooks.
