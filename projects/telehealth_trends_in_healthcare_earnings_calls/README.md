@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://medium.com/ro-data-team-blog/words-before-action-what-public-healthcare-companies-earnings-call-mean-for-telehealth-s-future-858f1c9b56d0">
-      <img src="https://github.com/nfeifel/analytics/blob/master/projects/telehealth_trends_in_healthcare_earnings_calls/cover_image.jpeg" alt="My Image" width="600" />
+      <img src="https://github.com/nfeifel/analytics/blob/master/projects/telehealth_trends_in_healthcare_earnings_calls/cover_image.jpeg" alt="My Image" width="650" />
   </a>
 </p>
 
