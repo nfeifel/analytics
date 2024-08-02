@@ -1,4 +1,4 @@
-# strava
+# Strava Workouts
 
 Some of my family members and I decided to run 366 miles in 2020, equating to one mile per day for the whole year. We are using Strava to track our progress and share our results with each other. One of the great things about Strava is their REST API functionality, which lets you pull tons of data on your workouts.
 
